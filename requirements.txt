@@ -1,0 +1,10 @@
+# Core dependencies
+numpy>=1.21.0
+opencv-python>=4.5.3.56
+matplotlib>=3.4.3
+
+# Jupyter related
+jupyter>=1.0.0
+notebook>=6.4.0
+ipykernel>=6.0.0
+ipywidgets>=7.6.5
